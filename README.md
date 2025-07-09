@@ -22,11 +22,3 @@ The notebook walks through the full machine learning pipeline:
 * NLTK
 * Matplotlib, Seaborn
 * Jupyter Notebook
-
-## 📌 License
-
-This project is for educational purposes.
-
----
-
-Let me know if you'd like this saved as a downloadable `README.md` file or if you'd like to include setup instructions for running it in a virtual environment.
